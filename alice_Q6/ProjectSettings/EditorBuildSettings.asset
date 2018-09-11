@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Q6_title.unity
+    guid: 92d14cb67d86ad545ac2faff6e92c2ba
+  - enabled: 1
+    path: Assets/Scenes/Q6_main.unity
+    guid: 241c052510b449a46bd42bb72756555f
+  - enabled: 1
+    path: Assets/Scenes/Q6_result.unity
+    guid: a95bdd97679b719439ca90d3284ad0d9
